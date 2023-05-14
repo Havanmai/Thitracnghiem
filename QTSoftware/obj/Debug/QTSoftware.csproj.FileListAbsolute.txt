@@ -1,0 +1,85 @@
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\bin\Debug\QTSoftware.exe
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\bin\Debug\QTSoftware.pdb
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csprojResolveAssemblyReference.cache
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Properties.Resources.resources
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.GenerateResource.Cache
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.exe.licenses
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.exe
+c:\users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.pdb
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Dangky.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Dangnhap.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.FromThi.resources
+C:\Users\duy28\OneDrive\Documents\Visual Studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Mainchinh.resources
+C:\Users\duy28\OneDrive\Documents\Visual Studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.DoiMatKhau.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Quanlycauhoi.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Formketquathi.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.FormThongBaoThi.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Lamsaodethi.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Load.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\bin\Debug\QTSoftware.exe.config
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.LichsuThi.resources
+C:\Users\duy28\onedrive\documents\visual studio 2013\Projects\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Quanlyuser.resources
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\QTSoftware.exe.config
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\QTSoftware.exe
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\QTSoftware.pdb
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Data.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Office.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraBars.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Images.v22.2.dll
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Data.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Office.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraBars.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+E:\mophong\QTSoftware\QTSoftware\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.AssemblyReference.cache
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.SuggestedBindingRedirects.cache
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Dangky.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Dangnhap.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.DoiMatKhau.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Formketquathi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.FormThongBaoThi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.FromThi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Lamsaodethi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.LichsuThi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Load.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Mainchinh.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Properties.Resources.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Quanlycauhoi.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.Quanlyuser.resources
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.GenerateResource.cache
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.exe.licenses
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.CoreCompileInputs.cache
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.csproj.CopyComplete
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.exe
+E:\mophong\QTSoftware\QTSoftware\obj\Debug\QTSoftware.pdb

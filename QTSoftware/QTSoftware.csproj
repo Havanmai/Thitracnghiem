@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8B63E01-5B4C-4786-A7DD-CBFF6229BA8E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QTSoftware</RootNamespace>
+    <AssemblyName>QTSoftware</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v22.2" />
+    <Reference Include="DevExpress.Drawing.v22.2" />
+    <Reference Include="DevExpress.Data.v22.2" />
+    <Reference Include="DevExpress.Pdf.v22.2.Core" />
+    <Reference Include="DevExpress.RichEdit.v22.2.Export" />
+    <Reference Include="DevExpress.Printing.v22.2.Core" />
+    <Reference Include="DevExpress.Office.v22.2.Core, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v22.2.Core, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v22.2" />
+    <Reference Include="DevExpress.Utils.v22.2" />
+    <Reference Include="DevExpress.XtraBars.v22.2" />
+    <Reference Include="DevExpress.Sparkline.v22.2.Core" />
+    <Reference Include="DevExpress.XtraEditors.v22.2" />
+    <Reference Include="DevExpress.XtraLayout.v22.2, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.2, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v22.2, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2.Core.Desktop, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2.Core, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v22.2, Version=22.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangky.Designer.cs">
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhap.Designer.cs">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formketquathi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formketquathi.Designer.cs">
+      <DependentUpon>Formketquathi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongBaoThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongBaoThi.Designer.cs">
+      <DependentUpon>FormThongBaoThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromThi.Designer.cs">
+      <DependentUpon>FromThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lamsaodethi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lamsaodethi.Designer.cs">
+      <DependentUpon>Lamsaodethi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichsuThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichsuThi.Designer.cs">
+      <DependentUpon>LichsuThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainchinh.Designer.cs">
+      <DependentUpon>Mainchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quanlycauhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quanlycauhoi.Designer.cs">
+      <DependentUpon>Quanlycauhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanlyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanlyUser.Designer.cs">
+      <DependentUpon>QuanlyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StringConnectionSql.cs" />
+    <EmbeddedResource Include="Dangky.resx">
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dangnhap.resx">
+      <DependentUpon>Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formketquathi.resx">
+      <DependentUpon>Formketquathi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongBaoThi.resx">
+      <DependentUpon>FormThongBaoThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromThi.resx">
+      <DependentUpon>FromThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lamsaodethi.resx">
+      <DependentUpon>Lamsaodethi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichsuThi.resx">
+      <DependentUpon>LichsuThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainchinh.resx">
+      <DependentUpon>Mainchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Quanlycauhoi.resx">
+      <DependentUpon>Quanlycauhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanlyUser.resx">
+      <DependentUpon>QuanlyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hin ti c  thi java c bn.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
